@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @waghera
 - 👀 I’m interested in emerging technologies.
 - 🌱 I’m currently learning flutter
-- 📫 How to reach me ...
+- 📫 Say Hello To Me On:
   Gmail: wagherawaghera967@gmail.com
   LinkedIn: https://www.linkedin.com/in/shadab-ahmad-e/
 
